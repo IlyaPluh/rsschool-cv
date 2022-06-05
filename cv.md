@@ -5,7 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Begin Jekyll SEO tag v2.7.1 -->
     <title>Artur Markasian | rsschool-cv</title>
     <meta name="generator" content="Jekyll v3.9.0"/>
     <meta property="og:title" content="Artur Markasian"/>
@@ -16,7 +15,7 @@
     <meta name="twitter:card" content="summary"/>
     <meta property="twitter:title" content="Artur Markasian"/>
     <script type="application/ld+json">
-    {"url":"https://mrks77.github.io/rsschool-cv/cv.html","@type":"WebPage","headline":"Artur Markasian","@context":"https://schema.org"}</script>
+    {"url":""}</script>
     <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/rsschool-cv/assets/css/style.css?v=269dbf231f83cea264f81535ebb812e11bbe4ff5">
