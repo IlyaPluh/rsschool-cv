@@ -21,7 +21,7 @@
         <link rel="stylesheet" type="text/css" href="./typography.css" />
         <link rel="stylesheet" type="text/css" media="screen" href="./screen.css" />
         <link rel="stylesheet" type="text/css" media="print" href="./print.css" />
-        <title> HTML Resume Template </title>
+        <img src="https://github.com/IlyaPluh/rsschool-cv/blob/e4c030cf244f59f8ebc3c8faef70fbb3fa226cb3/1600253903_35.jpg" alt="avatar">
     </head>
     <body class="letter">
         <section id="save">
