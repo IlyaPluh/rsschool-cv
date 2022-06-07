@@ -111,7 +111,6 @@
                                     <ul>
                                         <li>FE/JS</li>
                                         <li>QA</li>
-                                        <li>Leveraged Waymo datasets to double traffic statistics accuracy</li>
                                     </ul>
                                 </li>
                             </ol>
