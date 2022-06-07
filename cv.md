@@ -21,7 +21,7 @@
         <link rel="stylesheet" type="text/css" href="./typography.css" />
         <link rel="stylesheet" type="text/css" media="screen" href="./screen.css" />
         <link rel="stylesheet" type="text/css" media="print" href="./print.css" />
-        <title>HTML Resume Template</title>
+        <title> HTML Resume Template </title>
     </head>
     <body class="letter">
         <section id="save">
