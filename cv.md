@@ -6,10 +6,10 @@
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
         <meta name="google" content="notranslate" />
         <!-- Metadata (autofilled by "Save to HTML") -->
-        <meta name="author" content="Joe Smith" />
+        <meta name="author" content="Ilya Andryianau" />
         <meta name="subject" content="A really good software engineer you should hire" />
         <meta name="keywords" content="coding, developing, hacking" />
-        <meta name="date" content="2009-04-01" />
+        <meta name="date" content="2022-06-07" />
         <meta name="generator" content="html-resume-template" />
         <!-- Google Fonts, Normalize, and Font Awesome -->
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cardo|Montserrat:300,400,500&amp;subset=latin-ext" crossorigin="anonymous" />
@@ -31,29 +31,26 @@
                         <h6>Contact</h6>
                         <ul>
                             <li>
-                                <p><i class="fa fa-map-marker-alt" title="Location"></i> San Francisco, CA</p>
+                                <p><i class="fa fa-map-marker-alt" title="Location"></i> Minsk, RB</p>
                             </li>
                             <li>
-                                <p><i class="fa fa-phone" title="Cell phone"></i> <a href="tel:4153234000">(415) 323-4000</a></p>
+                                <p><i class="fa fa-phone" title="Cell phone"></i> <a href="tel:123456789">123456789</a></p>
                             </li>
                             <li>
-                                <p><i class="fa fa-envelope" title="Email"></i> <a href="mailto:joe@joesmith.site">joe@joesmith.site</a></p>
+                                <p><i class="fa fa-envelope" title="Email"></i> <a href="mailto:xirrurg@list.ru">xirrurg@list.ru</a></p>
                             </li>
                             <li>
-                                <p><i class="fa fa-globe-americas" title="Website"></i> <a href="https://joesmith.site">joesmith.site</a></p>
-                            </li>
-                            <li>
-                                <p><i class="fab fa-github" title="GitHub"></i> <a href="https://github.com/Tombarr">github.com/Tombarr</a></p>
+                                <p><i class="fab fa-github" title="GitHub"></i> <a href="https://github.com/IlyaPluh/rsschool-cv">https://github.com/IlyaPluh/rsschool-cv</a></p>
                             </li>
                         </ul>
                     </section>
                     <section class="skills">
                         <h6>Skills</h6>
                         <ul>
-                            <li><span>Responsive Design</span></li>
+                            <li><span>FrontEnd</span></li>
                             <li><span>Mobile Development</span></li>
                             <li><span>Usability Testing</span></li>
-                            <li><span>Data Visualization</span></li>
+                            <li><span>QA</span></li>
                             <li><span>A/B Testing</span></li>
                         </ul>
                     </section>
@@ -64,36 +61,31 @@
                             <li><span>PHP</span></li>
                             <li><span>HTML5</span></li>
                             <li><span>CSS3</span></li>
-                            <li><span>Bootstrap</span></li>
                             <li><span>React</span></li>
                         </ul>
                     </section>
                     <section class="references">
                         <h6>References</h6>
                         <address>
-                            Jane Doe<br />
-                            Alphabet Inc.<br />
-                            (413) 025-1900
-                            jane@janedoe.site
+                            Ilya Andriyanov<br />
+                            Pluh Inc.<br />
                         </address>
                         <address>
-                            Luke O'Connor<br />
-                            Facebook<br />
-                            (413) 125-1400
-                            luke@facebook.site
+                            Minsk, RB<br />
+                            IlyaA<br />
                         </address>
                         <p>Typeset in HTML &amp; CSS<br />
-                        See <a href="https://git.io/f4dXp">git.io/f4dXp</a></p>
+                        See <a href="https://github.com/IlyaPluh/rsschool-cv">https://github.com/IlyaPluh/rsschool-cv">https://github.com/IlyaPluh/rsschool-cv">https://github.com/IlyaPluh/rsschool-cv</a></p>
                     </section>
                 </aside>
                 <section>
-                    <header class="name" aria-label="Joe Smith">
-                        <a href="https://joesmith.site">
+                    <header class="name" aria-label="IlyaA">
+                        <a href="https://github.com/IlyaPluh/rsschool-cv">https://github.com/IlyaPluh/rsschool-cv">
                             <svg width="257px" height="35px" viewBox="0 0 257 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                 <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Montserrat-Regular, Montserrat" font-size="48" font-weight="normal">
                                     <g id="Letter" transform="translate(-54.000000, -140.000000)" fill="#484848">
-                                        <text id="JOE-SMITH">
-                                            <tspan x="54.728" y="174">JOE SMITH</tspan>
+                                        <text id="ILYA-A">
+                                            <tspan x="54.728" y="174">ILYA A</tspan>
                                         </text>
                                     </g>
                                 </g>
@@ -105,56 +97,21 @@
                     <section>
                         <section class="summary">
                             <h6>Summary</h6>
-                            <p>Deadline-oriented software engineer with lots of experience.
-                                Solid track record of architecting solutions that exceed client expectations.</p>
+                            <p>Deadline-oriented software engineer.</p>
                         </section>
                         <section class="experience">
                             <h6>Experience</h6>
                             <ol>
                                 <li>
                                     <header>
-                                        <p class="sanserif">Senior Software Engineer</p>
-                                        <time>2016 – Present</time>
-                                    </header>
-                                    <span>Google</span>
-                                    <ul>
-                                        <li>Developed scalable database indexing technology</li>
-                                        <li>Created GraphQL APIs for accessing Google Earth</li>
-                                        <li>Leveraged Waymo datasets to double traffic statistics accuracy</li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <header>
                                         <p class="sanserif">Software Engineer</p>
-                                        <time>2014 – 2016</time>
+                                        <time>2021 – Present</time>
                                     </header>
-                                    <span>Facebook</span>
+                                    <span>Pluh inc</span>
                                     <ul>
-                                        <li>Collected political affiliation data from millions of users</li>
-                                        <li>Authored user stories and mapped user journeys</li>
-                                        <li>Introduced regression testing to Yoga layout framework</li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <header>
-                                        <p class="sanserif">Software Engineer Intern</p>
-                                        <time>2013 – 2014</time>
-                                    </header>
-                                    <span>Twitter</span>
-                                    <ul>
-                                        <li>Analyzed and optimized code coverage across Scala architecture</li>
-                                        <li>Created project environment setup XML files</li>
-                                        <li>Maintained TCP/IP connections with 250,000 concurrent users</li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <header>
-                                        <p class="sanserif">Independent iOS Engineer</p>
-                                        <time>2012 – Present</time>
-                                    </header>
-                                    <ul>
-                                        <li>Developed SuperUltraCoolWeather app using AccuWeather API</li>
-                                        <li>Shipped products to more than 1,000,000 daily active users</li>
+                                        <li>FE/JS</li>
+                                        <li>QA</li>
+                                        <li>Leveraged Waymo datasets to double traffic statistics accuracy</li>
                                     </ul>
                                 </li>
                             </ol>
@@ -164,22 +121,8 @@
                             <ol>
                                 <li>
                                     <div>
-                                        <p class="sanserif">M.S., Human Computer Interaction</p>
-                                        <time>Sept '12 – May '14</time>
-                                    </div>
-                                    <div>
-                                        <span>Massachusetts Institute of Technology</span>
-                                        <span></span>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div>
-                                        <p class="sanserif">B.S., Computer Science</p>
-                                        <time>Sept '08 – May '12</time>
-                                    </div>
-                                    <div>
-                                        <span>Harvard University</span>
-                                        <span>GPA: 3.91</span>
+                                        <p class="sanserif">RS.School</p>
+                                        <time>2022 - Present</time>
                                     </div>
                                 </li>
                             </ol>
