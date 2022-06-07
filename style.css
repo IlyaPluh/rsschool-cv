@@ -1,5 +1,11 @@
-p {
-  color: red;
-  width: 500px;
-  border: 1px solid black;
+.output {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+p::before {
+    padding-right: 5px;
+}
+
+[lang="en-GB"]::before {
+    content: '(In British English) ';
 }
