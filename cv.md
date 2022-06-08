@@ -76,8 +76,8 @@
                     </section>
                 </aside>
                 <section>
-                    <header class="name" aria-label="IlyaA">
-                        <a href="https://github.com/IlyaPluh/rsschool-cv">Github>
+                    <header class="name" aria-label="linkedin">
+                        <a href="https://www.linkedin.com/in/ilyaandryianau/">linkedin>
                             <svg width="257px" height="35px" viewBox="0 0 257 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                 <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Montserrat-Regular, Montserrat" font-size="48" font-weight="normal">
                                     <g id="Letter" transform="translate(-54.000000, -140.000000)" fill="#484848">
