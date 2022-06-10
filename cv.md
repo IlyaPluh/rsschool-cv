@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" moznomarginboxes>
     <head>
         <meta charset="utf-8" />
